@@ -454,43 +454,43 @@ a {
   transition: all .8s; }
 
 .icon--light {
-  -webkit-mask: url("../Images/lighting-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/lighting-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/lighting-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/lighting-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--energy {
-  -webkit-mask: url("../Images/energy-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/energy-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/energy-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/energy-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--hvac {
-  -webkit-mask: url("../Images/hvac-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/hvac-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/hvac-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/hvac-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--blinds {
-  -webkit-mask: url("../Images/blinds-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/blinds-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/blinds-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/blinds-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--eye {
-  -webkit-mask: url("../Images/image-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/image-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/image-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/image-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--parking {
-  -webkit-mask: url("../Images/parking-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/parking-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/parking-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/parking-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--freezing {
-  -webkit-mask: url("../Images/freezing-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/freezing-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/freezing-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/freezing-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 .icon--streetlight {
-  -webkit-mask: url("../Images/streetlight-m-icon.svg") no-repeat 50% 50%;
-  mask: url("../Images/streetlight-m-icon.svg") no-repeat 50% 50%;
+  -webkit-mask: url("Images/streetlight-m-icon.svg") no-repeat 50% 50%;
+  mask: url("Images/streetlight-m-icon.svg") no-repeat 50% 50%;
   background-color: #808080; }
 
 /* ==========================================================================
