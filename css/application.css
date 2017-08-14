@@ -628,14 +628,14 @@ a {
   height: 120px;
   width: 35px;
   margin-top: 70px;
-  background-image: url("../../images/next_icon.svg"); }
+  background-image: url("../images/next_icon.svg"); }
 
 .iwa_c_carousel .carousel-control-prev-icon {
   height: 120px;
   width: 35px;
   margin-top: 70px;
   transform: scaleX(-1);
-  background-image: url("../../images/next_icon.svg"); }
+  background-image: url("../images/next_icon.svg"); }
 
 .iwa_c_carousel .carousel-caption {
   top: 35%;
